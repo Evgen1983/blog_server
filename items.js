@@ -14,7 +14,7 @@ module.exports = {
         updatedAt: '2017-06-10',
         likesCount: 2
       },
-      text: 'Цветение сакуры в Японии'
+      title: 'Цветение сакуры в Японии'
     },
 
     {
@@ -29,7 +29,7 @@ module.exports = {
         updatedAt: '2017-06-11',
         likesCount: 2
       },
-      text: 'УАЗ Патриот 2016'
+      title: 'УАЗ Патриот 2016'
     },
 
     {
@@ -45,7 +45,7 @@ module.exports = {
         updatedAt: '2017-06-12',
         likesCount: 2
       },
-      text: 'Первый самолет'
+      title: 'Первый самолет'
     }
   ]
 };
